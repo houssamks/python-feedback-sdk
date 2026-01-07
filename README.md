@@ -152,28 +152,9 @@ The script will prompt you for:
 | Projects | [https://fpulse.app/dashboard/projects](https://fpulse.app/dashboard/projects) |
 | View Feedback | [https://fpulse.app/dashboard/feedbacks](https://fpulse.app/dashboard/feedbacks) |
 
-## Platform-Specific Examples
+## Other Platforms
 
-### iOS (Swift)
-
-```swift
-// Coming soon - Native Swift SDK
-// For now, use URLSession to call the REST API
-```
-
-### Android (Kotlin)
-
-```kotlin
-// Coming soon - Native Kotlin SDK
-// For now, use OkHttp/Retrofit to call the REST API
-```
-
-### React Native
-
-```javascript
-// Coming soon - React Native SDK
-// For now, use fetch() to call the REST API
-```
+Looking for iOS, Android, or React Native integration? Check our [API Documentation](https://fpulse.app/docs) for examples using native HTTP clients.
 
 ## Support
 
